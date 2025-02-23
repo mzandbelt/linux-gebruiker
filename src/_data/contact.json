@@ -1,20 +1,16 @@
 {
     "items": [
         {
-            "name": "test@example.com",
-            "link": "mailto:test@example.com"
+            "name": "mmzandbelt@pm.me",
+            "link": "mailto:mmzandbelt@pm.me"
         },
         {
-            "name": "Twitter",
-            "link": "https://twitter.com/…"
+            "name": "Mastodon",
+            "link": "https://mastodon.nl/@zandbelt"
         },
         {
-            "name": "GitHub",
-            "link": "https://github.com/…"
-        },
-        {
-            "name": "CodePen",
-            "link": "https://codepen.io/…"
+            "name": "Peertube",
+            "link": "https://exquisite.tube/c/linuxgebruiker/videos?s=1"
         }
     ]
 }
